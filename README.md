@@ -35,6 +35,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#690](https://github.com/Sceleratis/Adonis/issues/690) in [Sceleratis/Adonis](https://github.com/Sceleratis/Adonis)
+2. 🗣 Commented on [#373](https://github.com/Sceleratis/Adonis/issues/373) in [Sceleratis/Adonis](https://github.com/Sceleratis/Adonis)
+3. 🗣 Commented on [#662](https://github.com/Sceleratis/Adonis/issues/662) in [Sceleratis/Adonis](https://github.com/Sceleratis/Adonis)
+4. 🗣 Commented on [#662](https://github.com/Sceleratis/Adonis/issues/662) in [Sceleratis/Adonis](https://github.com/Sceleratis/Adonis)
+5. 💪 Opened PR [#662](https://github.com/Sceleratis/Adonis/pull/662) in [Sceleratis/Adonis](https://github.com/Sceleratis/Adonis)
 <!--END_SECTION:activity-->
 
 </details>
