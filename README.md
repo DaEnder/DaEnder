@@ -19,11 +19,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Pinwind Computer Core ASMR  &lpar;VOLUME WARNING AT THE END&rpar;](https://www.youtube.com/watch?v=GCZ4W9_iBts)
 - [how to escape pbcc meltdown &lpar;do not share&rpar;](https://www.youtube.com/watch?v=Q12KhkQTwNo)
 - [Banderwaleed511](https://www.youtube.com/watch?v=9-i8qYYbN5U)
 - [Roblox Moderation](https://www.youtube.com/watch?v=21RakXjCW_8)
 - [I love trolling 2](https://www.youtube.com/watch?v=pOZMYj6qxJk)
-- [what the FUCK do i do](https://www.youtube.com/watch?v=TS3XidhAqu4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UChX83cHEOtxQs3I7YO8nfRA)
