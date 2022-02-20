@@ -26,7 +26,7 @@
 - [what the FUCK do i do](https://www.youtube.com/watch?v=TS3XidhAqu4)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/UChX83cHEOtxQs3I7YO8nfRA)
+➡️ [more videos...](https://www.youtube.com/channel/UChX83cHEOtxQs3I7YO8nfRA)
 <br />
 
 ---
@@ -39,10 +39,18 @@
 
 </details>
 
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Ender's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DaEnder&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details>
+
+<details>
+  <summary>:zap:Languages</summary>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
