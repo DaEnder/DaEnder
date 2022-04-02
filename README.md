@@ -35,11 +35,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/DaEnder/Roblox.SiteTest4/pull/1) in [DaEnder/Roblox.SiteTest4](https://github.com/DaEnder/Roblox.SiteTest4)
-2. 🎉 Merged PR [#2](https://github.com/DaEnder/Roblox.SiteTest4/pull/2) in [DaEnder/Roblox.SiteTest4](https://github.com/DaEnder/Roblox.SiteTest4)
-3. 🎉 Merged PR [#3](https://github.com/DaEnder/Roblox.SiteTest4/pull/3) in [DaEnder/Roblox.SiteTest4](https://github.com/DaEnder/Roblox.SiteTest4)
-4. 🎉 Merged PR [#4](https://github.com/DaEnder/Roblox.SiteTest4/pull/4) in [DaEnder/Roblox.SiteTest4](https://github.com/DaEnder/Roblox.SiteTest4)
-5. 🎉 Merged PR [#5](https://github.com/DaEnder/Roblox.SiteTest4/pull/5) in [DaEnder/Roblox.SiteTest4](https://github.com/DaEnder/Roblox.SiteTest4)
+1. 🗣 Commented on [#703](https://github.com/Sceleratis/Adonis/issues/703) in [Sceleratis/Adonis](https://github.com/Sceleratis/Adonis)
+2. ❗️ Opened issue [#50](https://github.com/AntiBoomz/BTRoblox/issues/50) in [AntiBoomz/BTRoblox](https://github.com/AntiBoomz/BTRoblox)
+3. 💪 Opened PR [#703](https://github.com/Sceleratis/Adonis/pull/703) in [Sceleratis/Adonis](https://github.com/Sceleratis/Adonis)
+4. 🗣 Commented on [#690](https://github.com/Sceleratis/Adonis/issues/690) in [Sceleratis/Adonis](https://github.com/Sceleratis/Adonis)
+5. 🗣 Commented on [#373](https://github.com/Sceleratis/Adonis/issues/373) in [Sceleratis/Adonis](https://github.com/Sceleratis/Adonis)
 <!--END_SECTION:activity-->
 
 </details>
