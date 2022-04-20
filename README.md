@@ -19,11 +19,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Roblox is messed](https://www.youtube.com/watch?v=7bbrGlmnuBA)
 - [popbob](https://www.youtube.com/watch?v=RlmFKdWyBM4)
 - [Sunset....](https://www.youtube.com/watch?v=gXuYxOojeno)
 - [banned forever from roblox for a maintenance gui 💀](https://www.youtube.com/watch?v=YXTCY30kTJA)
 - [Pinewood Computer Core without kronos](https://www.youtube.com/watch?v=1sn4kgDefeA)
-- [Pinwind Computer Core ASMR  &lpar;VOLUME WARNING AT THE END&rpar;](https://www.youtube.com/watch?v=GCZ4W9_iBts)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UChX83cHEOtxQs3I7YO8nfRA)
