@@ -19,8 +19,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Roblox bug report](https://www.youtube.com/watch?v=VcKU8gy23DU)
 - [Roblox is messed](https://www.youtube.com/watch?v=7bbrGlmnuBA)
-- [popbob](https://www.youtube.com/watch?v=RlmFKdWyBM4)
 - [Sunset....](https://www.youtube.com/watch?v=gXuYxOojeno)
 - [banned forever from roblox for a maintenance gui 💀](https://www.youtube.com/watch?v=YXTCY30kTJA)
 - [Pinewood Computer Core without kronos](https://www.youtube.com/watch?v=1sn4kgDefeA)
