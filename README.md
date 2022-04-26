@@ -35,11 +35,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#703](https://github.com/Sceleratis/Adonis/issues/703) in [Sceleratis/Adonis](https://github.com/Sceleratis/Adonis)
-2. ❗️ Opened issue [#50](https://github.com/AntiBoomz/BTRoblox/issues/50) in [AntiBoomz/BTRoblox](https://github.com/AntiBoomz/BTRoblox)
-3. 💪 Opened PR [#703](https://github.com/Sceleratis/Adonis/pull/703) in [Sceleratis/Adonis](https://github.com/Sceleratis/Adonis)
-4. 🗣 Commented on [#690](https://github.com/Sceleratis/Adonis/issues/690) in [Sceleratis/Adonis](https://github.com/Sceleratis/Adonis)
-5. 🗣 Commented on [#373](https://github.com/Sceleratis/Adonis/issues/373) in [Sceleratis/Adonis](https://github.com/Sceleratis/Adonis)
+1. 🗣 Commented on [#754](https://github.com/Sceleratis/Adonis/issues/754) in [Sceleratis/Adonis](https://github.com/Sceleratis/Adonis)
+2. 🗣 Commented on [#703](https://github.com/Sceleratis/Adonis/issues/703) in [Sceleratis/Adonis](https://github.com/Sceleratis/Adonis)
+3. ❗️ Opened issue [#50](https://github.com/AntiBoomz/BTRoblox/issues/50) in [AntiBoomz/BTRoblox](https://github.com/AntiBoomz/BTRoblox)
+4. 💪 Opened PR [#703](https://github.com/Sceleratis/Adonis/pull/703) in [Sceleratis/Adonis](https://github.com/Sceleratis/Adonis)
+5. 🗣 Commented on [#690](https://github.com/Sceleratis/Adonis/issues/690) in [Sceleratis/Adonis](https://github.com/Sceleratis/Adonis)
 <!--END_SECTION:activity-->
 
 </details>
