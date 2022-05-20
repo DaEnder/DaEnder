@@ -19,11 +19,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Pinwind Computer Cor &lpar;real&rpar;](https://www.youtube.com/watch?v=NIW9LmeYwK8)
+- [Pinwind Computer Cor &lpar;real&rpar;](https://www.youtube.com/watch?v=fu0epllD0WY)
 - [testing random shite](https://www.youtube.com/watch?v=5Q33QI-vj8k)
 - [tesing shite](https://www.youtube.com/watch?v=QOz-87W1CT0)
 - [Roblox bug report](https://www.youtube.com/watch?v=VcKU8gy23DU)
-- [Roblox is messed](https://www.youtube.com/watch?v=7bbrGlmnuBA)
-- [Sunset....](https://www.youtube.com/watch?v=gXuYxOojeno)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UChX83cHEOtxQs3I7YO8nfRA)
