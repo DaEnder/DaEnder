@@ -20,11 +20,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Literally just a video of me driving a train.](https://www.youtube.com/watch?v=-npzTkchKMs)
 - [Future Is Bright V7](https://www.youtube.com/watch?v=Ojee7A-a-EA)
 - [2016 January client test](https://www.youtube.com/watch?v=Uv3LN4tWnx8)
 - [Pinwind Computer Cor &lpar;real&rpar;](https://www.youtube.com/watch?v=NIW9LmeYwK8)
 - [Pinwind Computer Cor &lpar;real&rpar;](https://www.youtube.com/watch?v=fu0epllD0WY)
-- [testing random shite](https://www.youtube.com/watch?v=5Q33QI-vj8k)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UChX83cHEOtxQs3I7YO8nfRA)
