@@ -20,11 +20,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Portal Stream](https://www.youtube.com/watch?v=JsjRMa-Jv_M)
 - [Hire me Elon](https://www.youtube.com/watch?v=9KjGOgENRcM)
 - [Kill yourself now.](https://www.youtube.com/watch?v=VCiNKXUX2Co)
 - [Roblosium Guest Testing](https://www.youtube.com/watch?v=jMIq50mZkjA)
 - [The PBCC Race | 2022 06 11 22 06 56](https://www.youtube.com/watch?v=j56kvKyC9Dc)
+- [Literally just a video of me driving a train.](https://www.youtube.com/watch?v=-npzTkchKMs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UChX83cHEOtxQs3I7YO8nfRA)
