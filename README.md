@@ -37,10 +37,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#850](https://github.com/Sceleratis/Adonis/issues/850) in [Sceleratis/Adonis](https://github.com/Sceleratis/Adonis)
-2. 💪 Opened PR [#850](https://github.com/Sceleratis/Adonis/pull/850) in [Sceleratis/Adonis](https://github.com/Sceleratis/Adonis)
-3. 💪 Opened PR [#845](https://github.com/Sceleratis/Adonis/pull/845) in [Sceleratis/Adonis](https://github.com/Sceleratis/Adonis)
-4. ❗️ Opened issue [#1](https://github.com/Astra-Corporation/Astra-Support/issues/1) in [Astra-Corporation/Astra-Support](https://github.com/Astra-Corporation/Astra-Support)
-5. 🗣 Commented on [#509](https://github.com/sctplab/usrsctp/issues/509) in [sctplab/usrsctp](https://github.com/sctplab/usrsctp)
+2. 🗣 Commented on [#850](https://github.com/Sceleratis/Adonis/issues/850) in [Sceleratis/Adonis](https://github.com/Sceleratis/Adonis)
+3. 💪 Opened PR [#850](https://github.com/Sceleratis/Adonis/pull/850) in [Sceleratis/Adonis](https://github.com/Sceleratis/Adonis)
+4. 💪 Opened PR [#845](https://github.com/Sceleratis/Adonis/pull/845) in [Sceleratis/Adonis](https://github.com/Sceleratis/Adonis)
+5. ❗️ Opened issue [#1](https://github.com/Astra-Corporation/Astra-Support/issues/1) in [Astra-Corporation/Astra-Support](https://github.com/Astra-Corporation/Astra-Support)
 <!--END_SECTION:activity-->
 
 </details>
