@@ -39,8 +39,8 @@
 1. 🗣 Commented on [#850](https://github.com/Sceleratis/Adonis/issues/850) in [Sceleratis/Adonis](https://github.com/Sceleratis/Adonis)
 2. 🗣 Commented on [#850](https://github.com/Sceleratis/Adonis/issues/850) in [Sceleratis/Adonis](https://github.com/Sceleratis/Adonis)
 3. 🗣 Commented on [#850](https://github.com/Sceleratis/Adonis/issues/850) in [Sceleratis/Adonis](https://github.com/Sceleratis/Adonis)
-4. 💪 Opened PR [#850](https://github.com/Sceleratis/Adonis/pull/850) in [Sceleratis/Adonis](https://github.com/Sceleratis/Adonis)
-5. 💪 Opened PR [#845](https://github.com/Sceleratis/Adonis/pull/845) in [Sceleratis/Adonis](https://github.com/Sceleratis/Adonis)
+4. 🗣 Commented on [#850](https://github.com/Sceleratis/Adonis/issues/850) in [Sceleratis/Adonis](https://github.com/Sceleratis/Adonis)
+5. 🗣 Commented on [#850](https://github.com/Sceleratis/Adonis/issues/850) in [Sceleratis/Adonis](https://github.com/Sceleratis/Adonis)
 <!--END_SECTION:activity-->
 
 </details>
