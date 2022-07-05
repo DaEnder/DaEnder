@@ -20,11 +20,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Technoblade never dies](https://www.youtube.com/watch?v=0XreXqaNJ9s)
 - [c418 sweden moment](https://www.youtube.com/watch?v=T1X6WxH9W78)
 - [Trolling in hypixel bedwars](https://www.youtube.com/watch?v=NTFTjObGzN8)
 - [Egg](https://www.youtube.com/watch?v=BLEXD5Bsktg)
 - [Hire me Elon](https://www.youtube.com/watch?v=9KjGOgENRcM)
-- [Kill yourself now.](https://www.youtube.com/watch?v=VCiNKXUX2Co)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UChX83cHEOtxQs3I7YO8nfRA)
