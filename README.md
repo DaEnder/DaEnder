@@ -36,7 +36,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#850](https://github.com/Sceleratis/Adonis/issues/850) in [Sceleratis/Adonis](https://github.com/Sceleratis/Adonis)
+1. ❗️ Opened issue [#1](https://github.com/SimultaneousPing/releases/issues/1) in [SimultaneousPing/releases](https://github.com/SimultaneousPing/releases)
 2. 🗣 Commented on [#850](https://github.com/Sceleratis/Adonis/issues/850) in [Sceleratis/Adonis](https://github.com/Sceleratis/Adonis)
 3. 🗣 Commented on [#850](https://github.com/Sceleratis/Adonis/issues/850) in [Sceleratis/Adonis](https://github.com/Sceleratis/Adonis)
 4. 🗣 Commented on [#850](https://github.com/Sceleratis/Adonis/issues/850) in [Sceleratis/Adonis](https://github.com/Sceleratis/Adonis)
