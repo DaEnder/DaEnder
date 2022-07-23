@@ -20,11 +20,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [CHNPP reactor 3 accident](https://www.youtube.com/watch?v=Op7Qv5tPIb4)
 - [Jailbreak 2012 &lpar;Real&rpar;](https://www.youtube.com/watch?v=oJ6Y-TVYZn4)
 - [Roblox bug report thing ignore](https://www.youtube.com/watch?v=mZjchqy0_dM)
 - [How to make an simple but powerful sculk landmine #shorts](https://www.youtube.com/watch?v=i2KV6MPpDdw)
 - [Technoblade never dies](https://www.youtube.com/watch?v=0XreXqaNJ9s)
-- [c418 sweden moment](https://www.youtube.com/watch?v=T1X6WxH9W78)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UChX83cHEOtxQs3I7YO8nfRA)
