@@ -36,11 +36,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/vdsk/rbxstudiopatcher/issues/2) in [vdsk/rbxstudiopatcher](https://github.com/vdsk/rbxstudiopatcher)
-2. 🗣 Commented on [#84](https://github.com/evaera/Roblox-FFlag-Watcher/issues/84) in [evaera/Roblox-FFlag-Watcher](https://github.com/evaera/Roblox-FFlag-Watcher)
-3. 🗣 Commented on [#866](https://github.com/Sceleratis/Adonis/issues/866) in [Sceleratis/Adonis](https://github.com/Sceleratis/Adonis)
+1. 🗣 Commented on [#872](https://github.com/Epix-Incorporated/Adonis/issues/872) in [Epix-Incorporated/Adonis](https://github.com/Epix-Incorporated/Adonis)
+2. ❗️ Opened issue [#2](https://github.com/vdsk/rbxstudiopatcher/issues/2) in [vdsk/rbxstudiopatcher](https://github.com/vdsk/rbxstudiopatcher)
+3. 🗣 Commented on [#84](https://github.com/evaera/Roblox-FFlag-Watcher/issues/84) in [evaera/Roblox-FFlag-Watcher](https://github.com/evaera/Roblox-FFlag-Watcher)
 4. 🗣 Commented on [#866](https://github.com/Sceleratis/Adonis/issues/866) in [Sceleratis/Adonis](https://github.com/Sceleratis/Adonis)
-5. 🗣 Commented on [#860](https://github.com/Sceleratis/Adonis/issues/860) in [Sceleratis/Adonis](https://github.com/Sceleratis/Adonis)
+5. 🗣 Commented on [#866](https://github.com/Sceleratis/Adonis/issues/866) in [Sceleratis/Adonis](https://github.com/Sceleratis/Adonis)
 <!--END_SECTION:activity-->
 
 </details>
